@@ -1,0 +1,12 @@
+{
+  "name": "playwrite-epam-clientwork-e2e",
+  "version": "1.0.0",
+  "description": "Playwright E2E Test for https://www.epam.com/ Services -> Explore Our Client Work page",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.41.1"
+  }
+}
